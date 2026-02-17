@@ -1,6 +1,6 @@
 # Smart Resume Generator 🧠📄
 
-An AI-powered resume generator built using **Streamlit** and **Generative AI (Gemini API)** that creates professional, ATS-friendly resumes for any job role based on user input. The application dynamically generates structured resume content and allows users to download the final resume as a PDF.
+An AI-powered resume generator built using **Streamlit** and **Generative AI (Gemini API)** that creates professional, ATS-friendly resumes for any job role based on user input
 
 ---
 
@@ -10,8 +10,6 @@ An AI-powered resume generator built using **Streamlit** and **Generative AI (Ge
 - Professional and ATS-friendly formatting
 - Dynamic content generation using Generative AI
 - Clean and interactive Streamlit UI
-- Resume output in Markdown format
-- One-click PDF download
 - Easy to extend with advanced features
 
 ---
@@ -20,7 +18,6 @@ An AI-powered resume generator built using **Streamlit** and **Generative AI (Ge
 
 - **Programming Language:** Python  
 - **Frontend:** Streamlit  
-- **Generative AI:** Google Gemini API  
-- **PDF Generation:** ReportLab  
+- **Generative AI:** Google Gemini API
 - **Tools:** Git, VS Code  
 
